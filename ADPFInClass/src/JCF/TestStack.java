@@ -12,6 +12,7 @@ public class TestStack {
         stack.push(5);
 
         System.out.println(stack);
+        System.out.println("test");
 
 
     }
