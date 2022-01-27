@@ -6,6 +6,10 @@ public class Main {
 		// TODO Auto-generated method stub
 		Test.testList();
 		Test.testPCompare();
+		Test.testStack();
+		Test.testQueue();
+		Test.testDequeue();
+
 	}
 
 }
