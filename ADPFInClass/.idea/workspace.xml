@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d128cda4-25a4-4370-af7d-40babcca280e" name="Default Changelist" comment="Made Some Changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JCF/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JCF/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JCF/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JCF/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JCF/TestList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JCF/TestList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JCF/TestQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JCF/TestStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JCF/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JCF/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JCF/TestStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JCF/TestStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,17 +53,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -65,7 +62,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643308037077</updated>
-      <workItem from="1643308038233" duration="3622000" />
+      <workItem from="1643308038233" duration="5543000" />
+      <workItem from="1643407582896" duration="643000" />
     </task>
     <task id="LOCAL-00001" summary="Made Some Changes">
       <created>1643311816048</created>
@@ -90,6 +88,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Made Some Changes" />
