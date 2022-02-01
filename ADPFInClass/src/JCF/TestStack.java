@@ -12,6 +12,7 @@ public class TestStack {
         stack.push(5);
 
         System.out.println(stack);
+        System.out.println(stack.search(2));
         System.out.println("\nReverse");
         System.out.print("[");
         for(int i = stack.size()-1; i>=0; i--){

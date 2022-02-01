@@ -5,11 +5,10 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/JCF/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JCF/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/JCF/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JCF/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/JCF/TestList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JCF/TestList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/JCF/TestQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/JCF/TestStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/module-info.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JCF/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JCF/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JCF/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JCF/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JCF/TestDequeue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JCF/TestDequeue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JCF/TestQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JCF/TestQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JCF/TestStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JCF/TestStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +63,7 @@
       <updated>1643308037077</updated>
       <workItem from="1643308038233" duration="5543000" />
       <workItem from="1643407582896" duration="643000" />
+      <workItem from="1643740883518" duration="1746000" />
     </task>
     <task id="LOCAL-00001" summary="Made Some Changes">
       <created>1643311816048</created>
