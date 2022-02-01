@@ -40,8 +40,8 @@ public class Test {
 
 		System.out.println("\n\nTesting Dequeue now:");
 
-		TestDequeue objDequeue = new TestDequeue();
+		TestDeque objDeque = new TestDeque();
 
-		objDequeue.testDequeue();
+		objDeque.testDeque();
 	}
 }

@@ -7,8 +7,8 @@ public class Main {
 		//Test.testList();
 		// Test.testPCompare();
 		//Test.testStack();
-		Test.testQueue();
-		//Test.testDequeue();
+		//Test.testQueue();
+		Test.testDequeue();
 
 	}
 
