@@ -36,12 +36,41 @@ public class Test {
 		objQueue.testPriorityQueueAdv();
 	}
 
-	public static void testDequeue(){
+	public static void testDeque(){
 
 		System.out.println("\n\nTesting Dequeue now:");
 
 		TestDeque objDeque = new TestDeque();
 
 		objDeque.testDeque();
+		objDeque.testDequeAdv();
 	}
+	public  static void testSet(){
+		System.out.println("\n\nTesting Set Now: ");
+		TestSet setT = new TestSet();
+		setT.testHashSet();
+		System.out.println("ADV---------");
+		setT.testHashSetAdvanced();
+	}
+	public static void testMap(){
+		System.out.println("\n\nTesting Map Now:");
+		TestMap tMap = new TestMap();
+
+		tMap.testHashMap();
+		System.out.println("ADV---------");
+		tMap.testHashMapADV();
+
+
+	}
+	public static void testCollection(){
+		System.out.println("\n\nTesting Collection Now:");
+		TestCollection tCol = new TestCollection();
+
+		tCol.testCollection();
+		System.out.println("ADV---------");
+
+
+
+	}
+
 }
