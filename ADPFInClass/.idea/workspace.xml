@@ -2,22 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d128cda4-25a4-4370-af7d-40babcca280e" name="Default Changelist" comment="Made Some Changes">
-      <change afterPath="$PROJECT_DIR$/src/JCF/CWOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JCF/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JCF/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JCF/TestCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JCF/TestMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JCF/TestSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Study Exam 1/src/com/company/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/Assign4MinMax/AssignmentFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/Assign4MinMax/HeapPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/Assign4MinMax/MaxHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/Assign4MinMax/MinHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/Assign5/AssignmentFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/Assign5/Bennett_Solution" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/Assign5/Cashier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/Assign5/Walmart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/BankAccount/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/BankAccount/BankAccountThreadTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/BankAccount/DepositRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/BankAccount/WithdrawRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/InClassTrees/AssignmentThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/InClassTrees/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/InClassTrees/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/InClassTrees/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/MarThreeICP/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/MarThreeICP/GBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/MarThreeICP/GNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/MarThreeICP/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/MarThreeICP/TraversalType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/MarThreeICP/TreePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/RegExpress/REOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/RegExpress/RETwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/RegExpress/RegularExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/RegExpress/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/TestTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/Threads/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/Threads/PrinterThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/Threads/ThreadWI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/Threads/ThreadWS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/Threads/ThreadWithLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JCF/Threads/ThreadWithSynchronized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Study Exam 1/Study Exam 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Study Exam 1/src/com/company/Collect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/JCF/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JCF/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/JCF/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JCF/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/JCF/TestQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JCF/TestQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/JCF/TestStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JCF/TestStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JCF/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JCF/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JCF/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JCF/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JCF/TestDeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JCF/TestDeque.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JCF/TestStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JCF/TestStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JCF/CWOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JCF/CWOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JCF/TestSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JCF/TestSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Study Exam 1/src/com/company/Deque.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Study Exam 1/src/com/company/Deque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Study Exam 1/src/com/company/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Study Exam 1/src/com/company/Queue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +79,60 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/JCF/Assign4MinMax" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+    <property name="settings.editor.selected.configurable" value="inlay.hints.JAVA" />
   </component>
-  <component name="RunManager" selected="Application.MainInClass">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\S530995\Documents\AppDev\ADPFInClass\src\JCF\Assign4MinMax" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\S530995\Documents\AppDev\ADPFInClass\src\JCF\RegExpress" />
+      <recent name="C:\Users\S530995\Documents\AppDev\ADPFInClass\src\JCF\Threads" />
+      <recent name="C:\Users\S530995\Documents\AppDev\ADPFInClass\src\JCF\Assign4MinMax" />
+      <recent name="C:\Users\S530995\Documents\AppDev\ADPFInClass\src\JCF\MarThreeICP" />
+      <recent name="C:\Users\S530995\Documents\AppDev\ADPFInClass\src\JCF\03_03_22ICP" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Assign5">
+    <configuration name="Assign4" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="JCF.Assign4MinMax.AssignmentFour" />
+      <module name="ADPFInClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assign5" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="JCF.Assign5.AssignmentFive" />
+      <module name="ADPFInClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BSTMain" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="JCF.InClassTrees.Main" />
+      <module name="ADPFInClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccount" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="JCF.BankAccount.BankAccountThreadTester" />
+      <module name="ADPFInClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeapPractice" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="JCF.Assign4MinMax.HeapPractice" />
+      <module name="ADPFInClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="JCF.Main" />
       <module name="ADPFInClass" />
@@ -75,13 +147,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -89,6 +163,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.MainInClass" />
+      <item itemvalue="Application.BSTMain" />
+      <item itemvalue="Application.Assign4" />
+      <item itemvalue="Application.BankAccount" />
+      <item itemvalue="Application.Assign5" />
+      <item itemvalue="Application.HeapPractice" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -106,7 +185,20 @@
       <workItem from="1643914072993" duration="7345000" />
       <workItem from="1644519477391" duration="4311000" />
       <workItem from="1644949587210" duration="261000" />
-      <workItem from="1644950101798" duration="7625000" />
+      <workItem from="1644950101798" duration="11578000" />
+      <workItem from="1645120504282" duration="1743000" />
+      <workItem from="1645383098459" duration="81000" />
+      <workItem from="1645554491316" duration="6903000" />
+      <workItem from="1645626340552" duration="3366000" />
+      <workItem from="1645727488654" duration="9923000" />
+      <workItem from="1646332546519" duration="13538000" />
+      <workItem from="1646491440645" duration="17227000" />
+      <workItem from="1647538581431" duration="4683000" />
+      <workItem from="1647889065028" duration="1849000" />
+      <workItem from="1647969023520" duration="1891000" />
+      <workItem from="1648143595610" duration="4977000" />
+      <workItem from="1648505039180" duration="10005000" />
+      <workItem from="1648748230180" duration="384000" />
     </task>
     <task id="LOCAL-00001" summary="Made Some Changes">
       <created>1643311816048</created>

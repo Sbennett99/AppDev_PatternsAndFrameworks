@@ -1,0 +1,16 @@
+a. The main problem I have ran into is that both threads are
+requesting information at the same time, which may cause them to
+overlap one another and make it hard or impossible to input items and their prices
+correctly!
+
+b. one way to fix this problem is by giving a lock to the Walmart class
+which will be used by each cashiers to get their items and prices one Cashier at a time
+This Lock is public
+
+c. Another issue is that it is possible that the use of walmart may overlap with the use in other cashiers
+this may cause price miss matches and or a incorrect item count
+
+d. To fix this, I gave walmart a second lock that was private, named inner lock
+This lock guarantees that there is no overlap in the class.
+furthermore, I use the outer lock again, within the inner lock so to insure printing
+totals does not interrupt the system
